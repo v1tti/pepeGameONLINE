@@ -1,6 +1,3 @@
-pygame==2.1.0
+pygame==2.5.2
 neat-python==0.92
-Django==4.1.5
-asgiref==3.6.0
-python-dateutil==2.8.2
-six==1.16.0
+Django==5.0.4
