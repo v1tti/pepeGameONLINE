@@ -1,0 +1,2 @@
+pygame
+neat==0.92
