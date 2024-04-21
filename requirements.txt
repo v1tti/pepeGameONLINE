@@ -1,5 +1,4 @@
-[requirements]
-Django="3.2.25"
-neat-python="0.92"
-pygame="2.5.0"
-python_version = "3.9"
+Django==3.2.25
+neat-python==0.92
+pygame==2.5.0
+python_version==3.9
